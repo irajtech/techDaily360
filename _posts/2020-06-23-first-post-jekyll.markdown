@@ -5,7 +5,9 @@ date: '2020-06-23 15:54:09 +0200'
 categories: AWS
 permalink: /:categories/posts
 tags: [aws, web]
+shortPost: "false"
 website: aws.com
+gist: "You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve read more..."
 ---
 Im talking to GAYATHRI and she is nexy to me and what do ou think about 
 

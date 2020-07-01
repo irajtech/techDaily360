@@ -19,10 +19,20 @@ layout: default
         <h3>
           <!-- <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }} -->
-            <a class="post-link" href="{{ post.website }}" target="_blank">
-              {{ post.title | escape }}
-          </a>
-          {{ post.content }}
+           
+          {% if post.shortPost == "true" %}
+          <h2>{{ post.title | escape }}</h3>
+           <h3>  {{ post.gist }}</h4>  
+              {% elsif customer.name == "anonymous" %}
+                Hey Anonymous!
+              {% else %}
+              <a class="post-link" href="{{ post.website }}" target="_blank">
+                {{ post.title | escape }}
+            </a>
+              {{ post.content }}
+           {% endif %}
+
+          
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
