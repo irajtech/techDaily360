@@ -4,7 +4,7 @@ title: AWS EC2 comparison across regions
 date: '2020-07-02 09:09:09 +0200'
 categories: AWS
 permalink: /:categories/posts
-tags: [aws, web]
+tags: [aws]
 shortPost: "false"
 website: https://ec2.shop/?region=us-west-1
 ---
