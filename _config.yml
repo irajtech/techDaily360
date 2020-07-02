@@ -27,6 +27,11 @@ url: "https://techdaily360.com" # the base hostname & protocol for your site, e.
 twitter_username: 
 github_username:  
 
+# Analytics settings
+google_analytics: UA-171539791-1
+
+
+
 # Build settings
 theme: minima
 plugins:
