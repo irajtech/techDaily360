@@ -1,0 +1,26 @@
+---
+layout: post
+title: AWS EC2 comparison across regions
+date: '2020-07-02 09:09:09 +0200'
+categories: AWS
+permalink: /:categories/posts
+tags: [aws, web]
+shortPost: "false"
+website: https://ec2.shop/?region=us-west-1
+---
+It can be useful to compare ec2 instances across different regions to save some money.
+
+This can be easily done by selecting the regions and see how an instance type performs and costs.
+
+There is a nice curl command can be used to perform this
+
+{% highlight shell %}
+ curl 'https://ec2.shop?region=us-west-2'
+
+ //To Filter 
+ curl 'https://ec2.shop?region=us-west-2&filter=m4,m5,ssd'
+{% endhighlight %}
+
+Check out here [EC2 Info][jekyll-docs] for more info on how to get the most out of your region
+
+[jekyll-docs]: https://ec2.shop/?region=us-west-1
