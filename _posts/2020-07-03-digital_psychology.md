@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Digital Psychology
-date: '2020-07-03 15:09:09 +0200'
+date: '2020-06-28 15:09:09 +0200'
 categories: digital_psychology
 permalink: /:catgories/posts
 tags: [digital psychology]
