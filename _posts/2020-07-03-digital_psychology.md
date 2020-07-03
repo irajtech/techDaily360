@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Digital Psychology
-date: '2020-06-28 15:09:09 +0200'
-categories: digital_psychology
-permalink: /:catgories/posts
+date: '2020-07-03 15:09:09 +0200'
+categories: iOS
+permalink: /:categories/post
 tags: [digital psychology]
 shortPost: "false"
 website: https://digitalpsychology.io/scarcity/
