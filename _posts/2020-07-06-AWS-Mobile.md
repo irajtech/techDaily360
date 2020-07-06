@@ -42,6 +42,6 @@ Let's break down into 8 easy steps.
 
     Mobile users can search for their data using this service 
 
-1. **Amazon Simple Notification Service** - In short its called **SNS**. It provides push notification service to delivery content
+1. **Amazon Simple Notification Service** - In short it's called **SNS**. It provides push notification service to delivery content
 
     Mobile users receive push notifications based on their interest or some actions to get notified 
