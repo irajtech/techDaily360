@@ -26,11 +26,11 @@ These are the 9 most important tactics employed with technology to drive people 
 
     Example: Buy now and save XXX Euros
 
-1. **Need to complete** - Make sure to complete the flow. 
+1. **Need to complete** - Make sure to complete the flow
 
     Example: Loading indicator with percentages to show progress
 
-1. **Reciprocity** - Favor of getting something back. 
+1. **Reciprocity** - Favor of getting something back
 
     Example: Write a feedback to get 10 Euros coupon
 
