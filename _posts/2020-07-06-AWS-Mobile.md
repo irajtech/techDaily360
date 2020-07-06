@@ -8,11 +8,11 @@ tags: [aws, mobile]
 shortPost: "true"
 ---
 
-We always think that setting up an end-end architecure for a mobile application is a big task.
+We always think that setting up an end-end architecture for a mobile application is a big task.
 
-But with aws its super simple and it provides all the readymade components to put into use immediately.
+But with aws it's super simple and it provides all the readymade components to put into use immediately.
 
-Lets break down into 8 easy steps 
+Let's break down into 8 easy steps.
 
 1. **Amazon Cognito** - It's an identity service provider
    
@@ -20,28 +20,28 @@ Lets break down into 8 easy steps
 
 1. **Amazon Simple Storage Service** -  In short its called **S3** used for saving files
     
-    Mobile user related files such as images, audios can be saved in this 
+    Mobile user related files such as images, audios, document's and so on .. can be saved in this S3
 
-1. **Amazon Cloudfront** - It's a CDN (Content delivery network) for proividing quick access to     files
+1. **Amazon Cloudfront** - It's a CDN (Content Delivery Network) for proividing quick access to files
 
     Mobile users can access the files saved in S3 via cloudfront
 
-1. **Amazon API Gateway** - Its redirects users to the requested resource
+1. **Amazon API Gateway** - It redirects the users to the requested resource
 
     When mobile users requests any content, it redirects to the proper resource to satisfy the request from the users
 
-1. **Amazon Lambda** - Its a piece of code that runs based on the request
+1. **Amazon Lambda** - It's a piece of code that runs based on the request
 
     Mobile users can perform variety of operations like getPost, addLikes, comments etc.., based on the request from the API gateway
 
-1. **Amazon DynamoDB** -  Its a datastore that helps to create tables to manage data
+1. **Amazon DynamoDB** -  It's a datastore that helps to create tables to manage data
 
     Mobile users data can be saved in this for later retreival
 
-1. **Amazon CloudSearch** - It provides a interface to search data that has been saved from the     dynamoDB
+1. **Amazon CloudSearch** - It provides a interface to search data that has been saved from the dynamoDB
 
     Mobile users can search for their data using this service 
 
-1. **Amazon Simple Notification Service** - In short its called **SNS**. It provides push           notiifcation service to delivery content
+1. **Amazon Simple Notification Service** - In short its called **SNS**. It provides push notification service to delivery content
 
     Mobile users receive push notifications based on their interest or some actions to get notified 
