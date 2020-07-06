@@ -38,10 +38,10 @@ Let's break down into 8 easy steps.
 
     Mobile users data can be saved in this for later retreival
 
-1. **Amazon CloudSearch** - It provides a interface to search data that has been saved from the dynamoDB
+1. **Amazon CloudSearch** - It provides an interface to search data that has been saved from the dynamoDB
 
     Mobile users can search for their data using this service 
 
-1. **Amazon Simple Notification Service** - In short it's called **SNS**. It provides push notification service to delivery content
+1. **Amazon Simple Notification Service** - In short it's called **SNS** which provides push notification service to delivery content
 
     Mobile users receive push notifications based on their interest or some actions to get notified 
