@@ -22,7 +22,7 @@ Let's break down into 8 easy steps.
     
     Mobile user related files such as images, audios, document's and so on .. can be saved in this S3
 
-1. **Amazon Cloudfront** - It's a CDN (Content Delivery Network) for proividing quick access to files
+1. **Amazon Cloudfront** - It's a CDN (Content Delivery Network) for providing quick access to files
 
     Mobile users can access the files saved in S3 via cloudfront
 
