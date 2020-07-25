@@ -3,7 +3,7 @@ layout: post
 title: Anvil is a new way to build web apps
 date: '2020-07-01 15:09:09 +0200'
 categories: server
-permalink: /:categories/posts
+permalink: /:title/posts
 tags: [open source]
 shortPost: "false"
 website: https://anvil.works/blog/open-source

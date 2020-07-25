@@ -3,7 +3,7 @@ layout: post
 title: Set up an easy aws architecture for a mobile app
 date: '2020-07-06 15:54:09 +0200'
 categories: aws
-permalink: /:categories/post
+permalink: /:title/post
 tags: [aws, mobile]
 shortPost: "true"
 ---

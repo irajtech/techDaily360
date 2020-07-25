@@ -3,10 +3,9 @@ layout: post
 title: Digital Psychology
 date: '2020-07-03 15:09:09 +0200'
 categories: iOS
-permalink: /:categories/post
+permalink: /:title/post
 tags: [digital psychology]
-shortPost: "false"
-website: https://digitalpsychology.io/scarcity/
+shortPost: "true"
 ---
 Have we ever wonder, How companies are playing with our minds to increase their value and sales.
 

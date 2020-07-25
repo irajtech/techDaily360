@@ -3,10 +3,9 @@ layout: post
 title: AWS EC2 comparison across regions
 date: '2020-07-02 09:09:09 +0200'
 categories: AWS
-permalink: /:categories/posts
+permalink: /:title/posts
 tags: [aws]
-shortPost: "false"
-website: https://ec2.shop/?region=us-west-1
+shortPost: "true"
 ---
 It can be useful to compare ec2 instances across different regions to save some money.
 
